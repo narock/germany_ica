@@ -1,7 +1,9 @@
 ---
-title: Molecules to Models - An Environmental Chemistry and Data Science Journey in Germany 
 feature_image: "assets/images/hamburg_wide.jpg"
 ---
+
+## Molecules to Models:
+#### An Environmental Chemistry and Data Science Journey in Germany
 
 This immersive program combines a spring pre-course at Goucher College with a three-week summer study abroad in Germany. Climate change is a complex global challenge demanding multidimensional solutions. In this study abroad experience, students conduct independent research through hands-on air quality measurements, policy consideration, and comparative data workflows to contrast U.S. and German/European trends.  Students will explore the interplay of air quality, climate-change mitigation, and sustainable practices. Cultural immersion by visits to historic landmarks and within local communities will reveal how Germany’s history and values shape environmental policy and sustainable living.
 
