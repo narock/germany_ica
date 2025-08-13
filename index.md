@@ -1,5 +1,5 @@
 ---
-title: Molecules to Models: An Environmental Chemistry and Data Science Journey in Germany 
+title: Molecules to Models - An Environmental Chemistry and Data Science Journey in Germany 
 feature_image: "assets/images/hamburg_wide.jpg"
 ---
 
