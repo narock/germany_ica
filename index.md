@@ -1,93 +1,24 @@
 ---
-title: About Alembic
-feature_text: |
-  ## Molecules to Models: 
-  An Environmental Chemistry and Data Science Journey in Germany 
+title: Molecules to Models: An Environmental Chemistry and Data Science Journey in Germany 
 feature_image: "assets/images/hamburg_wide.jpg"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+This immersive program combines a spring pre-course at Goucher College with a three-week summer study abroad in Germany. Climate change is a complex global challenge demanding multidimensional solutions. In this study abroad experience, students conduct independent research through hands-on air quality measurements, policy consideration, and comparative data workflows to contrast U.S. and German/European trends.  Students will explore the interplay of air quality, climate-change mitigation, and sustainable practices. Cultural immersion by visits to historic landmarks and within local communities will reveal how Germany’s history and values shape environmental policy and sustainable living.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+## Detailed Course Overview
 
-## Features
+This ICA comprises a spring pre-program course at Goucher and a three-week field experience in Germany. In the pre-program, you’ll  strengthen you knowledge of  Germany’s history and current sustainability initiatives.. You’ll examine the science of climate change and the greenhouse effect, confidently collect air-quality measurements using PocketLab Air handheld devices, and master online databases for retrieving and analyzing pollution data. Working in small teams, you’ll research the Bremen, Kiel, Hamburg, and Munich regions—strengthening cohort connections, deepening your cultural understanding, and helping to shape the field itinerary.
+Your three-week international experience in Germany begins in Hamburg, where you'll spend five days exploring Northern Germany through a mix of site visits and local excursions. Upon arrival, you'll collect air quality data in various communities and examine the policy and economic dimensions of sustainable practices in the region. Key site visits include the German Climate Computing Center (DKRZ) and the German Institute for Global and Area Studies (GIGA). Additional day trips will take you to the Universum science center in Bremen and the GEOMAR Helmholtz Centre for Ocean Research in Kiel.
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+After departing Hamburg, you'll head south to your second home base in Munich. The program begins there with a guided city tour and an orientation at EF Tours’ Munich campus, followed by a culture and language workshop. In Munich, you'll continue collecting air quality data using PocketLab Air sensors while investigating sustainability practices across the Bavarian region. Classroom sessions provide space to work in teams, analyze your experimental results, and compare them with international datasets. You’ll also visit environmental research institutions, science centers and industrial locations, including the BIOTOPIA Lab, Deutsches Museum, BMW factory, and Technical University of Munich . Each day in Munich blends coursework, fieldwork, classroom study, and site visits, with cultural immersion through excursions to local landmarks and attractions. Throughout the program, you'll complete academic assignments and maintain a daily reflective journal. The experience concludes with a collaborative group presentation combining your air quality findings with research on climate change policies and sustainability practices in both the U.S. and Germany.
 
-## Examples
+## Learning Objectives
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
-
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
-
-## Installation
-
-### Quick setup
-
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
-
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
-
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
-
-### As a Jekyll theme
-
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a GitHub Pages remote theme
-
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic@main` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a Boilerplate / Fork
-
-_(deprecated, not recommended)_
-
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-## Customising
-
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
-
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
-
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+-	Know the sources and chemical processes of the greenhouse gas carbon dioxide and key pollutants (ozone, particulate matter (PM)).
+-	Operate PocketLab Air handheld detectors to measure carbon dioxide (CO₂), ozone (O₃), PM, and Air Quality Index (AQI).
+-	Demonstrate basic statistical analysis techniques through the Process, analyisis andze, and interpretion of experimental air quality data.
+-	Preserve your own data in a long-term repository and discuss the key characteristics of data preservation and reuse  
+-	Connect data preservation and open access to the broader goals of long-term climate monitoring and environmental preservation
+-	Acquire and analyze air-quality supplementary data from online resources.
+-	Evaluate German scientific, regulatory, and economic approaches to climate change through field visits to research centers and industry or via guest presenters.
+-	Analyze how German culture and/or societal values influence environmental policymaking and sustainable practices, integrating these insights into comparative assessments of U.S. and German approaches.
